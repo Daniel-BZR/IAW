@@ -2,8 +2,7 @@
 
 ## Subtitle: One of the best titles of Activision
 
-** This document serves as a little guide to my practicing skills on markdown. **
-
+**This document serves as a *little guide* to my practicing skills on `markdown`**
 ## Ordered list of the best POV games from Activision 
 
 1. Call of Duty World At War 2008
@@ -18,5 +17,19 @@
 * Call of Duty Infinite Warfare - 2014
 * Call of Durt WW2 - 2017
 
-[Check Activision's Website](../https://www.activision.com/es)
+[Check Activision's Website](https://www.activision.com/es)
+```bash
+# Launch server command
+./cod_server -config server.cfg
+```
+##Game Information Table
+|Game title | Release Year | Developer | 
+|:---- :---- :----
+|Call of Duty: Black Ops 3 | 2015 | Treyarch |
+|Call of Duty: Modern Warfare | 2019 | Infinity Ward | 
 
+* [Secondary Document](docs/detalles.md) 
+
+![Local Image](assets/BO3.jpeg)
+
+![Institute Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_IES_Clara_del_Rey.png/640px-Logo_IES_Clara_del_Rey.png)
