@@ -28,8 +28,8 @@
 |Call of Duty: Black Ops 3 | 2015 | Treyarch |
 |Call of Duty: Modern Warfare | 2019 | Infinity Ward | 
 
-* [Secondary Document](docs/detalles.md) 
+* [Secondary Document](docs/detalles.md)
 
 ![Local Image](assets/BO3.jpeg)
 
-![Institute Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Logo_IES_Clara_del_Rey.png/640px-Logo_IES_Clara_del_Rey.png)
+![IES Clara del Rey](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg/640px-I.e.s._clara_del_rey_%28Prosperidad%2C_Madrid%29.jpg)
